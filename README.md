@@ -4,6 +4,7 @@ Welcome to my **JavaScript Journey** – a structured and hands-on learning path
 
 ---
 
+
 ## 📁 Folder Structure
 
 Each folder represents a step in my JavaScript learning path:
